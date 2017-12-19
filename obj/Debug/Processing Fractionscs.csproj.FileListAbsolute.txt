@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\Processing Fractionscs\Processing Fractionscs\bin\Debug\Processing Fractionscs.exe.config
+D:\Visual Studio Projects\Processing Fractionscs\Processing Fractionscs\bin\Debug\Processing Fractionscs.exe
+D:\Visual Studio Projects\Processing Fractionscs\Processing Fractionscs\bin\Debug\Processing Fractionscs.pdb
+D:\Visual Studio Projects\Processing Fractionscs\Processing Fractionscs\obj\Debug\Processing Fractionscs.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Processing Fractionscs\Processing Fractionscs\obj\Debug\Processing Fractionscs.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Processing Fractionscs\Processing Fractionscs\obj\Debug\Processing Fractionscs.exe
+D:\Visual Studio Projects\Processing Fractionscs\Processing Fractionscs\obj\Debug\Processing Fractionscs.pdb
